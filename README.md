@@ -1,3 +1,6 @@
+Projet cloné du GitLab de l'ecole
+---
+
 Mastermind
 ==========
 
